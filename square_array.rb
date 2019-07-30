@@ -1,5 +1,5 @@
 def square_array= [ 1,2,3]
-  square_array.each do |numbers|
+  square_array.each do |**numbers|
   retuns square_array #{**numbers} 
     
   
