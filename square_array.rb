@@ -1,6 +1,6 @@
 def square_array(numbers)
   numbers.each do |numbers|
-  puts square_array #{numbers} 
+  retuns square_array #{numbers} 
     
   
   
