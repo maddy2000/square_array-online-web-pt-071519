@@ -1,9 +1,13 @@
+
+
 def square_array(array)
-  array.each do |**square_array|
-  retuns square_array #{**numbers} 
+  result = []
+  array.each do |number|
+  result << number * number
     
   
   
   # your code here
 end
+return result
 end
